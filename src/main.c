@@ -1,0 +1,88 @@
+// Standard includes.
+#include "stdio.h"
+
+// Scheduler includes.
+#include "FreeRTOS.h"
+#include "task.h"
+
+// Frequency conversion xHz < Tick Rate
+#define FREQUENCY( x ) (configTICK_RATE_HZ/( x ));
+
+/* Task priorities. */
+#define mainLEDBLINK_PRIORITY				( tskIDLE_PRIORITY + 1 )
+
+/* -------------- Task prototypes ---------------*/
+
+/* Taks that handles the I'm Alive led control */
+static void vLedBlink( void *pvParameters);
+
+/*
+ * The task that handles the USB stack.
+ */
+extern void vUSBTask( void *pvParameters );
+
+/*-----------------------------------------------------------*/
+int main( void )
+{
+
+    // Create the LED Blink task
+    	xTaskCreate( vLedBlink, ( signed char * ) "LED", configMINIMAL_STACK_SIZE, ( void * ) NULL, mainLEDBLINK_PRIORITY, NULL );
+	
+    // Create the Serial USB echo task.
+	xTaskCreate( vUSBTask, ( signed char * ) "USB", configMINIMAL_STACK_SIZE, ( void * ) NULL, tskIDLE_PRIORITY, NULL );
+    
+    // Start the scheduler.
+	vTaskStartScheduler();
+
+    // Will only get here if there was insufficient memory to create the idle
+    // task.  The idle task is created within vTaskStartScheduler()...
+	for( ;; );
+}
+
+/*-----------------------------------------------------------*/
+
+void vApplicationStackOverflowHook( xTaskHandle pxTask, signed char *pcTaskName )
+{
+	// This function will get called if a task overflows its stack.
+
+	( void ) pxTask;
+	( void ) pcTaskName;
+
+	for( ;; );
+}
+/*-----------------------------------------------------------*/
+
+void vLedBlink( void *pvParameters)
+{
+	//Execution Rate 1Hz
+	portTickType xLastWakeTime;
+	const portTickType xFrequency = FREQUENCY( 1 );
+	
+	char STATUS = 0; //Led Status
+
+	// Just to prevent compiler warnings about the unused parameter.
+	( void ) pvParameters;
+
+	LPC_GPIO1->FIODIR |= (1<<29);
+
+	xLastWakeTime = xTaskGetTickCount();
+
+	for( ;; )
+	{
+		vTaskDelayUntil(&xLastWakeTime, xFrequency);
+	
+		if (STATUS)
+		{
+			LPC_GPIO1->FIOCLR = (1<<29);
+			STATUS = ~STATUS;
+		}		
+		else
+		{
+			LPC_GPIO1->FIOSET = (1<<29);
+			STATUS = ~STATUS;
+		}
+			
+	}
+}
+/*-----------------------------------------------------------*/
+
