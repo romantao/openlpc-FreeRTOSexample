@@ -16,6 +16,8 @@ SET(CMAKE_C_INCLUDE_PATH
   "../../openlpc-deps/basefiles_FreeRTOS/include"
   "../../openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3"
   "../../openlpc-deps/CMSIS/include"
+  "../../openlpc-deps/CMSIS/DSP_Lib/include"
+  "../../openlpc-deps/CMSIS/DSP_Lib/src/Common/include"
   "../usbstack/include"
   )
 SET(CMAKE_CXX_INCLUDE_PATH ${CMAKE_C_INCLUDE_PATH})

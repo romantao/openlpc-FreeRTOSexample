@@ -11,6 +11,7 @@ FILE(REMOVE_RECURSE
   "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj"
   "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj"
   "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj"
+  "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj"
   "CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj"
   "CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj"
   "CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj"

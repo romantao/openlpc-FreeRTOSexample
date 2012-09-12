@@ -14,6 +14,7 @@ INCLUDE(usb_msc)
 
 SET(CMSIS_DIR     ${CMAKE_CURRENT_SOURCE_DIR}/../openlpc-deps/CMSIS)
 SET(BASEFILES_DIR ${CMAKE_CURRENT_SOURCE_DIR}/../openlpc-deps/basefiles)
+SET(DSPLIB_DIR     ${CMAKE_CURRENT_SOURCE_DIR}/../openlpc-deps/CMSIS/DSP_Lib)
 SET(FreeRTOS_DIR ${CMAKE_CURRENT_SOURCE_DIR}/../openlpc-deps/basefiles_FreeRTOS)
 SET(LPCUSB_DIR ${CMAKE_CURRENT_SOURCE_DIR}/usbstack)
 
@@ -24,6 +25,8 @@ INCLUDE_DIRECTORIES(
 	${FreeRTOS_DIR}/include
 	${FreeRTOS_DIR}/portable/ARM_CM3
 	${CMSIS_DIR}/include
+	${DSPLIB_DIR}/include
+	${DSPLIB_DIR}/src/Common/include
 	${LPCUSB_DIR}/include
 
 )
@@ -43,6 +46,7 @@ ADD_EXECUTABLE(main
 	${FreeRTOS_DIR}/portable/ARM_CM3/port.c
 	${CMSIS_DIR}/src/core_cm3.c
 	${CMSIS_DIR}/src/system_lpc17xx.c
+	${DSPLIB_DIR}/src/Common/source/math_helper.c
 	${LPCUSB_DIR}/src/usb_cdc.c
 	${LPCUSB_DIR}/src/usbcontrol.c
 	${LPCUSB_DIR}/src/usbhw_lpc.c
@@ -50,7 +54,7 @@ ADD_EXECUTABLE(main
 	${LPCUSB_DIR}/src/usbstdreq.c
 )
 
-TARGET_LINK_LIBRARIES(main -lm)
+TARGET_LINK_LIBRARIES(main -lm ${DSPLIB_DIR}/lib/arm_cortexM3_math.lib)
 
 GENERATE_HEX(main)
 

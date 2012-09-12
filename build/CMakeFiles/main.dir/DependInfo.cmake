@@ -4,6 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_C
+  "/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c" "/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj"
   "/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c" "/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj"
   "/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c" "/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj"
   "/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c" "/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj"

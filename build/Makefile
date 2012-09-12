@@ -147,6 +147,30 @@ usb_msc_program_main.bin/fast:
 	$(MAKE) -f CMakeFiles/usb_msc_program_main.bin.dir/build.make CMakeFiles/usb_msc_program_main.bin.dir/build
 .PHONY : usb_msc_program_main.bin/fast
 
+mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.obj: mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.obj
+
+# target to build an object file
+mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+
+mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.i: mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.i
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.i
+
+# target to preprocess a source file
+mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.i
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.i
+
+mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.s: mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.s
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.s
+
+# target to generate assembly for a file
+mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.s
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.s
+
 mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.obj: mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
 .PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.obj
 
@@ -567,6 +591,9 @@ help:
 	@echo "... program_target"
 	@echo "... rebuild_cache"
 	@echo "... usb_msc_program_main.bin"
+	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.obj"
+	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.i"
+	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.s"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.obj"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.i"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.s"

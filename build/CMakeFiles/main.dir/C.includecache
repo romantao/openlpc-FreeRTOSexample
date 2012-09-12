@@ -6,6 +6,22 @@
 
 #IncludeRegexTransform: 
 
+../../openlpc-deps/CMSIS/DSP_Lib/include/arm_math.h
+core_cm4.h
+../../openlpc-deps/CMSIS/DSP_Lib/include/core_cm4.h
+core_cm3.h
+../../openlpc-deps/CMSIS/DSP_Lib/include/core_cm3.h
+core_cm0.h
+../../openlpc-deps/CMSIS/DSP_Lib/include/core_cm0.h
+ARMCM4.h
+../../openlpc-deps/CMSIS/DSP_Lib/include/ARMCM4.h
+string.h
+../../openlpc-deps/CMSIS/DSP_Lib/include/string.h
+
+../../openlpc-deps/CMSIS/DSP_Lib/src/Common/include/math_helper.h
+arm_math.h
+../../openlpc-deps/CMSIS/DSP_Lib/src/Common/include/arm_math.h
+
 ../../openlpc-deps/CMSIS/include/LPC17xx.h
 core_cm3.h
 ../../openlpc-deps/CMSIS/include/core_cm3.h
@@ -273,6 +289,12 @@ usbstruct.h
 /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usbstruct.h
 usbapi.h
 /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usbapi.h
+
+/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c
+math.h
+-
+math_helper.h
+/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.h
 
 /mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c
 stdint.h

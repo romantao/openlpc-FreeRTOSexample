@@ -322,9 +322,32 @@ CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17
 
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj.provides.build: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
 
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj: /mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_13)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj"
+	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj   -c /mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c
+
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.i"
+	$(CMAKE_COMMAND) -E cmake_unimplemented_variable CMAKE_C_CREATE_PREPROCESSED_SOURCE
+
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.s"
+	$(CMAKE_COMMAND) -E cmake_unimplemented_variable CMAKE_C_CREATE_ASSEMBLY_SOURCE
+
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.requires:
+.PHONY : CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.requires
+
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.provides: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.requires
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.provides.build
+.PHONY : CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.provides
+
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.provides.build: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+
 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj: ../usbstack/src/usb_cdc.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_13)
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_14)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj"
 	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj   -c /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usb_cdc.c
 
@@ -347,7 +370,7 @@ CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj.provides.build: CMakeFiles/main.d
 
 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj: ../usbstack/src/usbcontrol.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_14)
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_15)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj"
 	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj   -c /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usbcontrol.c
 
@@ -370,7 +393,7 @@ CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj.provides.build: CMakeFiles/mai
 
 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj: ../usbstack/src/usbhw_lpc.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_15)
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_16)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj"
 	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj   -c /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usbhw_lpc.c
 
@@ -393,7 +416,7 @@ CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj.provides.build: CMakeFiles/main
 
 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj: ../usbstack/src/usbinit.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_16)
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_17)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/main.dir/usbstack/src/usbinit.c.obj"
 	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/main.dir/usbstack/src/usbinit.c.obj   -c /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usbinit.c
 
@@ -416,7 +439,7 @@ CMakeFiles/main.dir/usbstack/src/usbinit.c.obj.provides.build: CMakeFiles/main.d
 
 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj: ../usbstack/src/usbstdreq.c
-	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_17)
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_18)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building C object CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj"
 	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-gcc  $(C_DEFINES) $(C_FLAGS) -o CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj   -c /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/usbstack/src/usbstdreq.c
 
@@ -451,6 +474,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj" \
 "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj" \
 "CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj" \
+"CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj" \
 "CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj" \
 "CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj" \
 "CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj" \
@@ -472,11 +496,13 @@ main: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRT
 main: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
 main: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
 main: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+main: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
 main: CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
 main: CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
 main: CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
 main: CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
 main: CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+main: ../../openlpc-deps/CMSIS/DSP_Lib/lib/arm_cortexM3_math.lib
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking C executable main"
@@ -500,6 +526,7 @@ CMakeFiles/main.dir/requires: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openl
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj.requires
+CMakeFiles/main.dir/requires: CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj.requires
 CMakeFiles/main.dir/requires: CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj.requires
