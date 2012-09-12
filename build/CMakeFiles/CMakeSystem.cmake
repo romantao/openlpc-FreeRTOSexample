@@ -1,4 +1,4 @@
-INCLUDE("/mnt/dados/Works/ARM/code/cmake/Toolchains/Toolchain-lpc1759.cmake")
+INCLUDE("/mnt/dados/Works/ARM/code/openlpc-deps/cmake/Toolchains/Toolchain-lpc1759.cmake")
 
 SET(CMAKE_SYSTEM "Generic")
 SET(CMAKE_SYSTEM_NAME "Generic")

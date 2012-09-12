@@ -32,10 +32,10 @@ CMAKE_COMMAND = /usr/bin/cmake
 RM = /usr/bin/cmake -E remove -f
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/dados/Works/ARM/code/FreeRTOSexample
+CMAKE_SOURCE_DIR = /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/dados/Works/ARM/code/FreeRTOSexample/build
+CMAKE_BINARY_DIR = /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build
 
 # Utility rule file for lpc21isp_program_main.hex.
 
@@ -46,7 +46,7 @@ CMakeFiles/lpc21isp_program_main.hex: main.hex
 	lpc21isp -control main.hex /dev/ttyUSB0 115200 12000
 
 main.hex: main
-	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Generating main.hex"
 	/opt/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-eabi-objcopy -O ihex --strip-debug main main.hex
 
@@ -64,6 +64,6 @@ CMakeFiles/lpc21isp_program_main.hex.dir/clean:
 .PHONY : CMakeFiles/lpc21isp_program_main.hex.dir/clean
 
 CMakeFiles/lpc21isp_program_main.hex.dir/depend:
-	cd /mnt/dados/Works/ARM/code/FreeRTOSexample/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/dados/Works/ARM/code/FreeRTOSexample /mnt/dados/Works/ARM/code/FreeRTOSexample /mnt/dados/Works/ARM/code/FreeRTOSexample/build /mnt/dados/Works/ARM/code/FreeRTOSexample/build /mnt/dados/Works/ARM/code/FreeRTOSexample/build/CMakeFiles/lpc21isp_program_main.hex.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/lpc21isp_program_main.hex.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/lpc21isp_program_main.hex.dir/depend
 

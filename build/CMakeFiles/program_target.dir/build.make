@@ -32,10 +32,10 @@ CMAKE_COMMAND = /usr/bin/cmake
 RM = /usr/bin/cmake -E remove -f
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/dados/Works/ARM/code/FreeRTOSexample
+CMAKE_SOURCE_DIR = /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/dados/Works/ARM/code/FreeRTOSexample/build
+CMAKE_BINARY_DIR = /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build
 
 # Utility rule file for program_target.
 
@@ -57,6 +57,6 @@ CMakeFiles/program_target.dir/clean:
 .PHONY : CMakeFiles/program_target.dir/clean
 
 CMakeFiles/program_target.dir/depend:
-	cd /mnt/dados/Works/ARM/code/FreeRTOSexample/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/dados/Works/ARM/code/FreeRTOSexample /mnt/dados/Works/ARM/code/FreeRTOSexample /mnt/dados/Works/ARM/code/FreeRTOSexample/build /mnt/dados/Works/ARM/code/FreeRTOSexample/build /mnt/dados/Works/ARM/code/FreeRTOSexample/build/CMakeFiles/program_target.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/program_target.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/program_target.dir/depend
 
