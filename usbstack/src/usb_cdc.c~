@@ -59,7 +59,7 @@
 #include "LPC17xx.h"
 
 #define usbMAX_SEND_BLOCK	( 20 / portTICK_RATE_MS )
-#define usbBUFFER_LEN		( 20 )
+#define usbBUFFER_LEN		( 200 )
 
 #define BAUD_RATE		115200
 
@@ -315,7 +315,7 @@ DBG("SET_CONTROL_LINE_STATE %X\n", pSetup->wValue);
 	@param [in] c character to write
 	@returns character written, or EOF if character could not be written
  */
-int VCOM_putchar(int c)
+int VCOM_putchar(char c)
 {
 char cc = ( char ) c;
 
@@ -329,6 +329,27 @@ char cc = ( char ) c;
 	}
 }
 
+/**
+
+	Writes one character to VCOM port
+	
+	@param [in] ponter to string to write
+	@returns 0, or EOF if character could not be written
+
+ */
+int VCOM_puts(char * string)
+{
+	char i = 0; 		//string index
+	
+	while (string[i] != '\0') 
+	{
+		if( VCOM_putchar(string[i]) == EOF )
+			return EOF;
+		i++;
+	}
+	
+	return 0;
+}
 
 /**
 	Reads one character from VCOM port

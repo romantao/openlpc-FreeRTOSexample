@@ -24,7 +24,8 @@ void vUSBecho( void *pvParameters )
 		c = VCOM_getchar();
 		if (c != EOF) 
 		{
-			VCOM_putchar(c);
+			//VCOM_putchar(c);
+			VCOM_puts("TESTE\r\n");
 		}
 	}
 }

@@ -16,6 +16,7 @@
 // Task priorities.
 #define ledblink_PRIORITY				( tskIDLE_PRIORITY + 1 )
 #define usbecho_PRIORITY				( tskIDLE_PRIORITY + 1 )
+#define CLI_PRIORITY					( tskIDLE_PRIORITY )
 
 /* -------------- Task prototypes ---------------*/
 
@@ -25,7 +26,16 @@ extern void vLedBlink( void *pvParameters);
 // Task that echoes a received char via serial interface .
 extern void vUSBecho( void *pvParameters );
 
+
+// The task that implements the UDP command interpreter using FreeRTOS+CLI.
+//extern void vCommandInterpreterTask( void *pvParameters );
+
 // Function Prototypes
+
+// Register commands to be be used with FreeRTOS+CLI through serial interface.
+// The commands are defined in CLI-commands.c.
+extern void vRegisterCLICommands( void );
+
 
 
 /*-----------------------------------------------------------*/
@@ -33,14 +43,20 @@ int main( void )
 {
 
     // Initialize system's peripherals
-	USBInit();
+	USBinit();
 
-    // Create the LED Blink task
+    // Create the LED Blink task.
     	xTaskCreate( vLedBlink, ( signed char * ) "LED", configMINIMAL_STACK_SIZE, ( void * ) NULL, ledblink_PRIORITY, NULL );
 	
     // Create the Serial USB echo task.
 	xTaskCreate( vUSBecho, ( signed char * ) "USB", configMINIMAL_STACK_SIZE, ( void * ) NULL, usbecho_PRIORITY, NULL );
     
+    // Create the task that handles the CLI on a Virtual Serial port.
+	//xTaskCreate( vCommandInterpreterTask, ( signed char * ) "CLI", configMINIMAL_STACK_SIZE, NULL, CLI_PRIORITY, NULL );
+
+    //Register commands with the FreeRTOS+CLI command interpreter.
+	vRegisterCLICommands();
+
     // Start the scheduler.
 	vTaskStartScheduler();
 

@@ -1,0 +1,1438 @@
+Archive member included because of file (symbol)
+
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (log10)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (__ieee754_log10)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_fpclassify.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (__fpclassifyd)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_lib_ver.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (__fdlib_version)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_matherr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (matherr)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_nan.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (nan)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o) (__ieee754_log)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o) (__aeabi_dsub)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivdf3.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_dmul)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (__aeabi_dcmpeq)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_d2iz)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_truncdfsf2.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_d2f)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_fsub)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivsf3.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_fmul)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_fcmpeq)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixsfsi.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj (__aeabi_f2iz)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj (__aeabi_uldivmod)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_dvmd_tls.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o) (__divdi3)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o) (__udivdi3)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivsi3.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o) (__aeabi_uidiv)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o) (__errno)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o) (_impure_ptr)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcmp.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj (memcmp)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj (memcpy)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj (memset)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj (sprintf)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj (strcat)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcpy.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o) (strcpy)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+                              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj (strncpy)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o) (malloc)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o) (_malloc_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memchr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o) (memchr)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mlock.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o) (_Balloc)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o) (strcmp)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o) (strlen)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-callocr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o) (_calloc_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-freer.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o) (_free_r)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memmove.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o) (memmove)
+/opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-reallocr.o)
+                              /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o) (_realloc_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+xQueueRegistry      0x50              CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00010000         0x00070000         xr
+RamLoc32         0x10000000         0x00007fe0         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+LOAD CMakeFiles/main.dir/src/main.c.obj
+LOAD CMakeFiles/main.dir/src/ledblink.c.obj
+LOAD CMakeFiles/main.dir/src/usbecho.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+LOAD CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+LOAD CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+LOAD CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+LOAD CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+LOAD CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+LOAD CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a
+START GROUP
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+LOAD /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10007fe0                __top_RamLoc32 = 0x10007fe0
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00010000     0xada8
+ FILL mask 0xff
+ *(.isr_vector)
+ .isr_vector    0x00010000       0xc8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x00010000                g_pfnVectors
+                0x000100c8                . = ALIGN (0x4)
+                0x000100c8                __section_table_start = .
+                0x000100c8                __data_section_table = .
+                0x000100c8        0x4 LONG 0x1adc8 LOADADDR (.data)
+                0x000100cc        0x4 LONG 0x10000000 ADDR (.data)
+                0x000100d0        0x4 LONG 0x5a0 SIZEOF (.data)
+                0x000100d4        0x4 LONG 0x1adc8 LOADADDR (.data_RAM2)
+                0x000100d8        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000100dc        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000100e0                __data_section_table_end = .
+                0x000100e0                __bss_section_table = .
+                0x000100e0        0x4 LONG 0x100005b0 ADDR (.bss)
+                0x000100e4        0x4 LONG 0x4f34 SIZEOF (.bss)
+                0x000100e8        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000100ec        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000100f0                __bss_section_table_end = .
+                0x000100f0                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text          0x000100f0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .text          0x000100f0       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .text          0x00010120        0x0 CMakeFiles/main.dir/src/main.c.obj
+ .text.main     0x00010120       0x4c CMakeFiles/main.dir/src/main.c.obj
+                0x00010120                main
+ .text.vApplicationStackOverflowHook
+                0x0001016c        0x4 CMakeFiles/main.dir/src/main.c.obj
+                0x0001016c                vApplicationStackOverflowHook
+ .text          0x00010170        0x0 CMakeFiles/main.dir/src/ledblink.c.obj
+ .text.vLedBlink
+                0x00010170       0x4c CMakeFiles/main.dir/src/ledblink.c.obj
+                0x00010170                vLedBlink
+ .text          0x000101bc        0x0 CMakeFiles/main.dir/src/usbecho.c.obj
+ .text.vUSBecho
+                0x000101bc       0x18 CMakeFiles/main.dir/src/usbecho.c.obj
+                0x000101bc                vUSBecho
+ .text          0x000101d4        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+ .text.NMI_Handler
+                0x000101d4        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101d4                NMI_Handler
+ .text.HardFault_Handler
+                0x000101d8        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101d8                HardFault_Handler
+ .text.MemManage_Handler
+                0x000101dc        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101dc                MemManage_Handler
+ .text.BusFault_Handler
+                0x000101e0        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101e0                BusFault_Handler
+ .text.UsageFault_Handler
+                0x000101e4        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101e4                UsageFault_Handler
+ .text.DebugMon_Handler
+                0x000101e8        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101e8                DebugMon_Handler
+ .text.ResetISR
+                0x000101ec       0x80 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x000101ec                ResetISR
+ .text.IntDefaultHandler
+                0x0001026c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+                0x0001026c                TIMER2_IRQHandler
+                0x0001026c                RIT_IRQHandler
+                0x0001026c                I2C0_IRQHandler
+                0x0001026c                USBActivity_IRQHandler
+                0x0001026c                PWM1_IRQHandler
+                0x0001026c                I2C1_IRQHandler
+                0x0001026c                EINT2_IRQHandler
+                0x0001026c                UART1_IRQHandler
+                0x0001026c                EINT3_IRQHandler
+                0x0001026c                CANActivity_IRQHandler
+                0x0001026c                TIMER3_IRQHandler
+                0x0001026c                UART0_IRQHandler
+                0x0001026c                IntDefaultHandler
+                0x0001026c                PLL0_IRQHandler
+                0x0001026c                CAN_IRQHandler
+                0x0001026c                PLL1_IRQHandler
+                0x0001026c                SSP0_IRQHandler
+                0x0001026c                I2S_IRQHandler
+                0x0001026c                I2C2_IRQHandler
+                0x0001026c                RTC_IRQHandler
+                0x0001026c                TIMER0_IRQHandler
+                0x0001026c                SPI_IRQHandler
+                0x0001026c                EINT1_IRQHandler
+                0x0001026c                TIMER1_IRQHandler
+                0x0001026c                UART2_IRQHandler
+                0x0001026c                ADC_IRQHandler
+                0x0001026c                SSP1_IRQHandler
+                0x0001026c                BOD_IRQHandler
+                0x0001026c                WDT_IRQHandler
+                0x0001026c                QEI_IRQHandler
+                0x0001026c                EINT0_IRQHandler
+                0x0001026c                DMA_IRQHandler
+                0x0001026c                UART3_IRQHandler
+                0x0001026c                MCPWM_IRQHandler
+                0x0001026c                ENET_IRQHandler
+ .text          0x00010270        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+ .text._read_r  0x00010270        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x00010270                _read_r
+ .text._lseek_r
+                0x00010278        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x00010278                _lseek_r
+ .text._write_r
+                0x0001027c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x0001027c                _write_r
+ .text._close_r
+                0x00010280        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x00010280                _close_r
+ .text._sbrk_r  0x00010284        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x00010284                _sbrk_r
+ .text._fstat_r
+                0x00010288        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x00010288                _fstat_r
+ .text._isatty_r
+                0x0001028c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+                0x0001028c                _isatty_r
+ .text          0x00010290        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .text.prvAddCurrentTaskToDelayedList
+                0x00010290       0x50 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .text.prvListTaskWithinSingleList
+                0x000102e0       0x98 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .text.xTaskGenericCreate
+                0x00010378      0x1d8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010378                xTaskGenericCreate
+ .text.vTaskDelete
+                0x00010550       0x70 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010550                vTaskDelete
+ .text.uxTaskPriorityGet
+                0x000105c0       0x28 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x000105c0                uxTaskPriorityGet
+ .text.vTaskPrioritySet
+                0x000105e8       0xa4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x000105e8                vTaskPrioritySet
+ .text.xTaskIsTaskSuspended
+                0x0001068c       0x2c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x0001068c                xTaskIsTaskSuspended
+ .text.vTaskResume
+                0x000106b8       0x80 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x000106b8                vTaskResume
+ .text.xTaskResumeFromISR
+                0x00010738       0xa0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010738                xTaskResumeFromISR
+ .text.vTaskStartScheduler
+                0x000107d8       0x50 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x000107d8                vTaskStartScheduler
+ .text.vTaskEndScheduler
+                0x00010828       0x18 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010828                vTaskEndScheduler
+ .text.vTaskSuspendAll
+                0x00010840       0x10 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010840                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x00010850       0x18 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010850                xTaskGetTickCount
+ .text.xTaskGetTickCountFromISR
+                0x00010868       0x1c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010868                xTaskGetTickCountFromISR
+ .text.uxTaskGetNumberOfTasks
+                0x00010884        0xc CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010884                uxTaskGetNumberOfTasks
+ .text.vTaskIncrementTick
+                0x00010890      0x124 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010890                vTaskIncrementTick
+ .text.xTaskResumeAll
+                0x000109b4       0xe0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x000109b4                xTaskResumeAll
+ .text.vTaskList
+                0x00010a94      0x114 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010a94                vTaskList
+ .text.prvIdleTask
+                0x00010ba8       0x70 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .text.vTaskDelay
+                0x00010c18       0x40 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010c18                vTaskDelay
+ .text.vTaskDelayUntil
+                0x00010c58       0x60 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010c58                vTaskDelayUntil
+ .text.vTaskSwitchContext
+                0x00010cb8       0xc8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010cb8                vTaskSwitchContext
+ .text.vTaskSuspend
+                0x00010d80       0x7c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010d80                vTaskSuspend
+ .text.vTaskPlaceOnEventList
+                0x00010dfc       0x44 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010dfc                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x00010e40       0x6c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010e40                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x00010eac       0x18 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010eac                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00010ec4       0x7c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010ec4                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00010f40        0xc CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010f40                vTaskMissedYield
+ .text.uxTaskGetTaskNumber
+                0x00010f4c        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010f4c                uxTaskGetTaskNumber
+ .text.vTaskSetTaskNumber
+                0x00010f54        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010f54                vTaskSetTaskNumber
+ .text.uxTaskGetStackHighWaterMark
+                0x00010f5c       0x2c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010f5c                uxTaskGetStackHighWaterMark
+ .text.xTaskGetCurrentTaskHandle
+                0x00010f88        0xc CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010f88                xTaskGetCurrentTaskHandle
+ .text.vTaskPriorityInherit
+                0x00010f94       0x6c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00010f94                vTaskPriorityInherit
+ .text.vTaskPriorityDisinherit
+                0x00011000       0x48 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x00011000                vTaskPriorityDisinherit
+ .text          0x00011048        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .text.prvUnlockQueue
+                0x00011048       0x98 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .text.prvCopyDataToQueue
+                0x000110e0       0x6c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .text.xQueueGenericReset
+                0x0001114c       0x64 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x0001114c                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x000111b0       0x50 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x000111b0                xQueueGenericCreate
+ .text.xQueueCreateCountingSemaphore
+                0x00011200       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011200                xQueueCreateCountingSemaphore
+ .text.xQueueGenericSend
+                0x00011214       0xf0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011214                xQueueGenericSend
+ .text.xQueueGiveMutexRecursive
+                0x00011304       0x2c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011304                xQueueGiveMutexRecursive
+ .text.xQueueCreateMutex
+                0x00011330       0x4c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011330                xQueueCreateMutex
+ .text.xQueueGenericSendFromISR
+                0x0001137c       0x68 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x0001137c                xQueueGenericSendFromISR
+ .text.xQueueGenericReceive
+                0x000113e4      0x148 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x000113e4                xQueueGenericReceive
+ .text.xQueueTakeMutexRecursive
+                0x0001152c       0x34 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x0001152c                xQueueTakeMutexRecursive
+ .text.xQueueReceiveFromISR
+                0x00011560       0x7c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011560                xQueueReceiveFromISR
+ .text.uxQueueMessagesWaiting
+                0x000115dc       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x000115dc                uxQueueMessagesWaiting
+ .text.uxQueueMessagesWaitingFromISR
+                0x000115f0        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x000115f0                uxQueueMessagesWaitingFromISR
+ .text.vQueueDelete
+                0x000115f4       0x84 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x000115f4                vQueueDelete
+ .text.ucQueueGetQueueNumber
+                0x00011678        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011678                ucQueueGetQueueNumber
+ .text.vQueueSetQueueNumber
+                0x00011680        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011680                vQueueSetQueueNumber
+ .text.ucQueueGetQueueType
+                0x00011688        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011688                ucQueueGetQueueType
+ .text.xQueueIsQueueEmptyFromISR
+                0x00011690        0xc CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x00011690                xQueueIsQueueEmptyFromISR
+ .text.xQueueIsQueueFullFromISR
+                0x0001169c       0x10 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x0001169c                xQueueIsQueueFullFromISR
+ .text.vQueueAddToRegistry
+                0x000116ac       0x64 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x000116ac                vQueueAddToRegistry
+ .text          0x00011710        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj
+ .text          0x00011710        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .text.xCoRoutineCreate
+                0x00011710       0xcc CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+                0x00011710                xCoRoutineCreate
+ .text.vCoRoutineAddToDelayedList
+                0x000117dc       0x5c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+                0x000117dc                vCoRoutineAddToDelayedList
+ .text.vCoRoutineSchedule
+                0x00011838      0x1f8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+                0x00011838                vCoRoutineSchedule
+ .text.xCoRoutineRemoveFromEventList
+                0x00011a30       0x34 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+                0x00011a30                xCoRoutineRemoveFromEventList
+ .text          0x00011a64        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+ .text.vListInitialise
+                0x00011a64       0x18 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+                0x00011a64                vListInitialise
+ .text.vListInitialiseItem
+                0x00011a7c        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+                0x00011a7c                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00011a84       0x1c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+                0x00011a84                vListInsertEnd
+ .text.vListInsert
+                0x00011aa0       0x3c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+                0x00011aa0                vListInsert
+ .text.vListRemove
+                0x00011adc       0x24 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+                0x00011adc                vListRemove
+ .text          0x00011b00        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .text.pvPortMalloc
+                0x00011b00       0xb0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+                0x00011b00                pvPortMalloc
+ .text.vPortFree
+                0x00011bb0       0x40 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+                0x00011bb0                vPortFree
+ .text.xPortGetFreeHeapSize
+                0x00011bf0        0xc CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+                0x00011bf0                xPortGetFreeHeapSize
+ .text.vPortInitialiseBlocks
+                0x00011bfc        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+                0x00011bfc                vPortInitialiseBlocks
+ .text          0x00011c00        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .text.prvPortStartFirstTask
+                0x00011c00       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .text.pxPortInitialiseStack
+                0x00011c14       0x24 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011c14                pxPortInitialiseStack
+ .text.vPortSVCHandler
+                0x00011c38       0x20 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011c38                vPortSVCHandler
+ .text.xPortStartScheduler
+                0x00011c58       0x40 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011c58                xPortStartScheduler
+ .text.vPortEndScheduler
+                0x00011c98        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011c98                vPortEndScheduler
+ .text.vPortYieldFromISR
+                0x00011c9c       0x10 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011c9c                vPortYieldFromISR
+ .text.vPortEnterCritical
+                0x00011cac       0x18 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011cac                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00011cc4       0x18 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011cc4                vPortExitCritical
+ .text.xPortPendSVHandler
+                0x00011cdc       0x3c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011cdc                xPortPendSVHandler
+ .text.xPortSysTickHandler
+                0x00011d18       0x24 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x00011d18                xPortSysTickHandler
+ .text          0x00011d3c        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
+ .text          0x00011d3c        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00011d3c      0x100 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+                0x00011d3c                SystemCoreClockUpdate
+ .text.SystemInit
+                0x00011e3c       0xec CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+                0x00011e3c                SystemInit
+ .text          0x00011f28        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+ .text.arm_snr_f32
+                0x00011f28      0x128 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00011f28                arm_snr_f32
+ .text.arm_provide_guard_bits_q15
+                0x00012050       0x54 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00012050                arm_provide_guard_bits_q15
+ .text.arm_float_to_q12_20
+                0x000120a4      0x1e8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000120a4                arm_float_to_q12_20
+ .text.arm_compare_fixed_q15
+                0x0001228c       0x94 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x0001228c                arm_compare_fixed_q15
+ .text.arm_compare_fixed_q31
+                0x00012320       0x8c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00012320                arm_compare_fixed_q31
+ .text.arm_provide_guard_bits_q31
+                0x000123ac       0x4c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000123ac                arm_provide_guard_bits_q31
+ .text.arm_provide_guard_bits_q7
+                0x000123f8       0x50 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000123f8                arm_provide_guard_bits_q7
+ .text.arm_calc_guard_bits
+                0x00012448       0x1c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00012448                arm_calc_guard_bits
+ .text.arm_apply_guard_bits
+                0x00012464       0x54 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00012464                arm_apply_guard_bits
+ .text.arm_calc_2pow
+                0x000124b8       0x2c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000124b8                arm_calc_2pow
+ .text.arm_float_to_q14
+                0x000124e4      0x1f8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000124e4                arm_float_to_q14
+ .text.arm_float_to_q30
+                0x000126dc      0x1ec CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000126dc                arm_float_to_q30
+ .text.arm_float_to_q29
+                0x000128c8      0x1ec CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x000128c8                arm_float_to_q29
+ .text.arm_float_to_q28
+                0x00012ab4      0x1ec CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00012ab4                arm_float_to_q28
+ .text.arm_clip_f32
+                0x00012ca0       0xf0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+                0x00012ca0                arm_clip_f32
+ .text          0x00012d90        0x0 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .text.USBFrameHandler
+                0x00012d90       0x1c CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .text.BulkOut  0x00012dac       0x90 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .text.BulkIn   0x00012e3c       0x70 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .text.HandleClassRequest
+                0x00012eac       0x38 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .text.VCOM_putchar
+                0x00012ee4       0x2c CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+                0x00012ee4                VCOM_putchar
+ .text.VCOM_puts
+                0x00012f10       0x20 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+                0x00012f10                VCOM_puts
+ .text.VCOM_getchar
+                0x00012f30       0x24 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+                0x00012f30                VCOM_getchar
+ .text.USB_IRQHandler
+                0x00012f54        0x4 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+                0x00012f54                USB_IRQHandler
+ .text.CPUcpsie
+                0x00012f58        0xc CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+                0x00012f58                CPUcpsie
+ .text.USBinit  0x00012f64       0xa4 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+                0x00012f64                USBinit
+ .text          0x00013008        0x0 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .text.DataIn   0x00013008       0x30 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .text.StallControlPipe.clone.0
+                0x00013038        0x8 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .text.USBHandleControlTransfer
+                0x00013040       0xe4 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+                0x00013040                USBHandleControlTransfer
+ .text.USBRegisterRequestHandler
+                0x00013124       0x18 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+                0x00013124                USBRegisterRequestHandler
+ .text          0x0001313c        0x0 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .text.USBHwCmdWrite
+                0x0001313c       0x48 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .text.USBHwCmdRead
+                0x00013184       0x50 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .text.USBHwEPConfig
+                0x000131d4       0x4c CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x000131d4                USBHwEPConfig
+ .text.USBHwRegisterEPIntHandler
+                0x00013220       0x40 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x00013220                USBHwRegisterEPIntHandler
+ .text.USBHwRegisterDevIntHandler
+                0x00013260       0x1c CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x00013260                USBHwRegisterDevIntHandler
+ .text.USBHwRegisterFrameHandler
+                0x0001327c       0x1c CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x0001327c                USBHwRegisterFrameHandler
+ .text.USBHwSetAddress
+                0x00013298        0xc CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x00013298                USBHwSetAddress
+ .text.USBHwConnect
+                0x000132a4        0xc CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x000132a4                USBHwConnect
+ .text.USBHwNakIntEnable
+                0x000132b0        0x8 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x000132b0                USBHwNakIntEnable
+ .text.USBHwEPGetStatus
+                0x000132b8       0x10 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x000132b8                USBHwEPGetStatus
+ .text.USBHwEPStall
+                0x000132c8       0x18 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x000132c8                USBHwEPStall
+ .text.USBHwEPWrite
+                0x000132e0       0xa0 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x000132e0                USBHwEPWrite
+ .text.USBHwEPRead
+                0x00013380       0xdc CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x00013380                USBHwEPRead
+ .text.USBHwConfigDevice
+                0x0001345c        0xc CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x0001345c                USBHwConfigDevice
+ .text.USBHwISR
+                0x00013468       0xb8 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x00013468                USBHwISR
+ .text.USBHwInit
+                0x00013520       0x98 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+                0x00013520                USBHwInit
+ .text          0x000135b8        0x0 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .text.HandleUsbReset
+                0x000135b8        0x4 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .text.USBInit  0x000135bc       0x4c CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+                0x000135bc                USBInit
+ .text          0x00013608        0x0 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .text.USBRegisterDescriptors
+                0x00013608        0xc CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+                0x00013608                USBRegisterDescriptors
+ .text.USBGetDescriptor
+                0x00013614       0x54 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+                0x00013614                USBGetDescriptor
+ .text.USBHandleStandardRequest
+                0x00013668      0x17c CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+                0x00013668                USBHandleStandardRequest
+ .text.USBRegisterCustomReqHandler
+                0x000137e4        0xc CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+                0x000137e4                USBRegisterCustomReqHandler
+ .text          0x000137f0      0x100 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+                0x000137f0                log10
+ .text          0x000138f0      0x128 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o)
+                0x000138f0                __ieee754_log10
+ .text          0x00013a18       0x90 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_fpclassify.o)
+                0x00013a18                __fpclassifyd
+ .text          0x00013aa8        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_lib_ver.o)
+ .text          0x00013aa8        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_matherr.o)
+                0x00013aa8                matherr
+ .text          0x00013aac        0xc /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_nan.o)
+                0x00013aac                nan
+ .text          0x00013ab8      0x420 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log.o)
+                0x00013ab8                __ieee754_log
+ .text          0x00013ed8      0x370 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+                0x00013ed8                __aeabi_drsub
+                0x00013ee0                __aeabi_dsub
+                0x00013ee0                __subdf3
+                0x00013ee4                __adddf3
+                0x00013ee4                __aeabi_dadd
+                0x0001415c                __aeabi_ui2d
+                0x0001415c                __floatunsidf
+                0x0001417c                __floatsidf
+                0x0001417c                __aeabi_i2d
+                0x000141a0                __extendsfdf2
+                0x000141a0                __aeabi_f2d
+                0x000141dc                __aeabi_ul2d
+                0x000141dc                __floatundidf
+                0x000141ec                __floatdidf
+                0x000141ec                __aeabi_l2d
+ .text          0x00014248      0x424 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivdf3.o)
+                0x00014248                __aeabi_dmul
+                0x00014248                __muldf3
+                0x0001449c                __aeabi_ddiv
+                0x0001449c                __divdf3
+ .text          0x0001466c      0x110 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+                0x0001466c                __gtdf2
+                0x0001466c                __gedf2
+                0x00014674                __ltdf2
+                0x00014674                __ledf2
+                0x0001467c                __cmpdf2
+                0x0001467c                __eqdf2
+                0x0001467c                __nedf2
+                0x000146f8                __aeabi_cdrcmple
+                0x00014708                __aeabi_cdcmple
+                0x00014708                __aeabi_cdcmpeq
+                0x00014718                __aeabi_dcmpeq
+                0x0001472c                __aeabi_dcmplt
+                0x00014740                __aeabi_dcmple
+                0x00014754                __aeabi_dcmpge
+                0x00014768                __aeabi_dcmpgt
+ .text          0x0001477c       0x50 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+                0x0001477c                __fixdfsi
+                0x0001477c                __aeabi_d2iz
+ .text          0x000147cc       0xa0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_truncdfsf2.o)
+                0x000147cc                __aeabi_d2f
+                0x000147cc                __truncdfsf2
+ .text          0x0001486c      0x21c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubsf3.o)
+                0x0001486c                __aeabi_frsub
+                0x00014874                __subsf3
+                0x00014874                __aeabi_fsub
+                0x00014878                __aeabi_fadd
+                0x00014878                __addsf3
+                0x000149d8                __aeabi_ui2f
+                0x000149d8                __floatunsisf
+                0x000149e0                __aeabi_i2f
+                0x000149e0                __floatsisf
+                0x000149fc                __floatundisf
+                0x000149fc                __aeabi_ul2f
+                0x00014a0c                __floatdisf
+                0x00014a0c                __aeabi_l2f
+ .text          0x00014a88      0x2a0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivsf3.o)
+                0x00014a88                __mulsf3
+                0x00014a88                __aeabi_fmul
+                0x00014bf0                __divsf3
+                0x00014bf0                __aeabi_fdiv
+ .text          0x00014d28       0xec /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpsf2.o)
+                0x00014d28                __gtsf2
+                0x00014d28                __gesf2
+                0x00014d30                __lesf2
+                0x00014d30                __ltsf2
+                0x00014d38                __nesf2
+                0x00014d38                __eqsf2
+                0x00014d38                __cmpsf2
+                0x00014d98                __aeabi_cfrcmple
+                0x00014da0                __aeabi_cfcmple
+                0x00014da0                __aeabi_cfcmpeq
+                0x00014db0                __aeabi_fcmpeq
+                0x00014dc4                __aeabi_fcmplt
+                0x00014dd8                __aeabi_fcmple
+                0x00014dec                __aeabi_fcmpge
+                0x00014e00                __aeabi_fcmpgt
+ .text          0x00014e14       0x4c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixsfsi.o)
+                0x00014e14                __fixsfsi
+                0x00014e14                __aeabi_f2iz
+ .text          0x00014e60       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o)
+                0x00014e60                __aeabi_uldivmod
+ .text          0x00014e8c       0x60 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o)
+                0x00014e8c                __gnu_ldivmod_helper
+                0x00014ebc                __gnu_uldivmod_helper
+ .text          0x00014eec        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_dvmd_tls.o)
+                0x00014eec                __aeabi_ldiv0
+                0x00014eec                __aeabi_idiv0
+ .text          0x00014ef0      0x360 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+                0x00014ef0                __divdi3
+ .text          0x00015250      0x308 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+                0x00015250                __udivdi3
+ .text          0x00015558      0x278 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivsi3.o)
+                0x00015558                __udivsi3
+                0x00015558                __aeabi_uidiv
+                0x000157b4                __aeabi_uidivmod
+ .text          0x000157d0        0xc /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o)
+                0x000157d0                __errno
+ .text          0x000157dc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .text          0x000157dc       0x64 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcmp.o)
+                0x000157dc                memcmp
+ .text          0x00015840      0x150 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy.o)
+                0x00015840                memcpy
+ .text          0x00015990       0xb4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                0x00015990                memset
+ .text          0x00015a44       0x94 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o)
+                0x00015a44                _sprintf_r
+                0x00015a88                sprintf
+ .text          0x00015ad8       0x48 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o)
+                0x00015ad8                strcat
+ .text          0x00015b20       0xbc /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcpy.o)
+                0x00015b20                strcpy
+ .text          0x00015bdc       0x78 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+                0x00015bdc                strncpy
+ .text          0x00015c54     0x1640 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+                0x00015c54                _svfprintf_r
+ *fill*         0x00017294        0x4 00
+ .text          0x00017298      0xfe8 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+                0x000173c4                _dtoa_r
+ .text          0x00018280       0xa0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+                0x00018280                _setlocale_r
+                0x000182dc                __locale_charset
+                0x000182e8                __locale_mb_cur_max
+                0x000182f4                __locale_msgcharset
+                0x000182fc                __locale_cjk_lang
+                0x00018300                _localeconv_r
+                0x00018308                setlocale
+                0x00018318                localeconv
+ .text          0x00018320       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o)
+                0x00018320                malloc
+                0x00018330                free
+ .text          0x00018340      0x57c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o)
+                0x00018340                _malloc_r
+ .text          0x000188bc       0x8c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memchr.o)
+                0x000188bc                memchr
+ .text          0x00018948        0x8 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mlock.o)
+                0x00018948                __malloc_lock
+                0x0001894c                __malloc_unlock
+ .text          0x00018950      0x91c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+                0x00018950                _Balloc
+                0x000189b8                _Bfree
+                0x000189f0                __multadd
+                0x00018a74                __s2b
+                0x00018b0c                __hi0bits
+                0x00018b4c                __lo0bits
+                0x00018bb0                __i2b
+                0x00018bc4                __multiply
+                0x00018cec                __pow5mult
+                0x00018d90                __lshift
+                0x00018e3c                __mcmp
+                0x00018e78                __mdiff
+                0x00018f70                __ulp
+                0x00018fb8                __b2d
+                0x00019064                __d2b
+                0x0001912c                __ratio
+                0x00019194                _mprec_log10
+                0x000191c8                __copybits
+                0x00019210                __any_on
+ .text          0x0001926c      0x1dc /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+                0x0001926c                strcmp
+ .text          0x00019448       0x60 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+                0x00019448                strlen
+ .text          0x000194a8      0xbe8 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+                0x000194a8                __ssprint_r
+                0x000195b0                _svfiprintf_r
+ .text          0x0001a090       0x5c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-callocr.o)
+                0x0001a090                _calloc_r
+ .text          0x0001a0ec      0x240 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-freer.o)
+                0x0001a0ec                _malloc_trim_r
+                0x0001a194                _free_r
+ .text          0x0001a32c       0xb4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memmove.o)
+                0x0001a32c                memmove
+ .text          0x0001a3e0      0x41c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-reallocr.o)
+                0x0001a3e0                _realloc_r
+ .text          0x0001a7fc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .text          0x0001a7fc        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+ *(.rodata .rodata.*)
+ .rodata.str1.4
+                0x0001a7fc        0x8 CMakeFiles/main.dir/src/main.c.obj
+ .rodata.str1.4
+                0x0001a804      0x319 CMakeFiles/main.dir/src/usbecho.c.obj
+                                0x31c (size before relaxing)
+ *fill*         0x0001ab1d        0x3 00
+ .rodata.ucExpectedStackBytes.6447
+                0x0001ab20       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .rodata.str1.4
+                0x0001ab34       0x1f CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                                 0x20 (size before relaxing)
+ *fill*         0x0001ab53        0x1 00
+ .rodata.ulKernelPriority
+                0x0001ab54        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+                0x0001ab54                ulKernelPriority
+ .rodata.abDescriptors
+                0x0001ab58       0x7c CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .rodata.str1.4
+                0x0001abd4        0x6 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+                                  0xc (size before relaxing)
+ *fill*         0x0001abda        0x2 00
+ .rodata        0x0001abdc        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+                0x0001abdc                _global_impure_ptr
+ .rodata.str1.4
+                0x0001abe0        0x2 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x0001abe2        0x2 00
+ .rodata        0x0001abe4       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+ .rodata.str1.4
+                0x0001ac04       0x3f /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x0001ac43        0x1 00
+ .rodata.str1.4
+                0x0001ac44       0x10 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x0001ac54        0xc /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata        0x0001ac60      0x128 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+                0x0001ac70                __mprec_tens
+                0x0001ad38                __mprec_bigtens
+                0x0001ad60                __mprec_tinytens
+ .rodata        0x0001ad88       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+ .rodata.str1.4
+                0x00000000       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+                0x0001ada8                . = ALIGN (0x4)
+
+.glue_7         0x0001ada8        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0001ada8        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0001ada8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0001ada8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.init           0x0001ada8        0xc
+ .init          0x0001ada8        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+                0x0001ada8                _init
+ .init          0x0001adac        0x8 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+
+.fini           0x0001adb4        0xc
+ .fini          0x0001adb4        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+                0x0001adb4                _fini
+ .fini          0x0001adb8        0x8 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+
+.ARM.extab      0x0001adc0        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0001adc0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0001adc0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+                0x0001adc0                __exidx_start = .
+
+.ARM.exidx      0x0001adc0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0001adc0        0x8 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0001adc8        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x0001adc8                __exidx_end = .
+                0x0001adc8                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x0001adc8
+ FILL mask 0xff
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+ *(.bss.$RESERVED*)
+
+.data           0x10000000      0x5a0 load address 0x0001adc8
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x10000000        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .data          0x10000000        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+                0x10000000                __dso_handle
+ .data          0x10000004        0x0 CMakeFiles/main.dir/src/main.c.obj
+ .data          0x10000004        0x0 CMakeFiles/main.dir/src/ledblink.c.obj
+ .data          0x10000004        0x0 CMakeFiles/main.dir/src/usbecho.c.obj
+ .data          0x10000004        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+ .data          0x10000004        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+ .data          0x10000004        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .data.xNextTaskUnblockTime
+                0x10000004        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .data          0x10000008        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .data          0x10000008        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj
+ .data          0x10000008        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .data          0x10000008        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+ .data          0x10000008        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .data.xFreeBytesRemaining
+                0x10000008        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .data          0x1000000c        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .data.uxCriticalNesting
+                0x1000000c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .data          0x10000010        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
+ .data          0x10000010        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+ .data.SystemCoreClock
+                0x10000010        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+                0x10000010                SystemCoreClock
+ .data          0x10000014        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+ .data          0x10000014        0x0 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .data.LineCoding
+                0x10000014        0x8 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .data          0x1000001c        0x0 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .data          0x1000001c        0x0 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .data          0x1000001c        0x0 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .data          0x1000001c        0x0 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .data          0x1000001c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+ .data          0x1000001c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o)
+ .data          0x1000001c        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_fpclassify.o)
+ .data          0x1000001c        0x1 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_lib_ver.o)
+                0x1000001c                __fdlib_version
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_matherr.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_nan.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubsf3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivsf3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpsf2.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixsfsi.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_dvmd_tls.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivsi3.o)
+ .data          0x1000001d        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o)
+ *fill*         0x1000001d        0x3 00
+ .data          0x10000020       0xf4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+                0x10000020                _impure_ptr
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcmp.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcpy.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+ .data          0x10000114        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+ .data          0x10000114       0x7c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+                0x10000134                __mb_cur_max
+ .data          0x10000190        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o)
+ .data          0x10000190      0x410 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o)
+                0x10000190                __malloc_av_
+                0x10000598                __malloc_sbrk_base
+                0x1000059c                __malloc_trim_threshold
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memchr.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mlock.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-callocr.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-freer.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memmove.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-reallocr.o)
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .data          0x100005a0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+                0x100005a0                . = ALIGN (0x4)
+                0x100005a0                _edata = .
+
+.init_array     0x100005a0        0x4 load address 0x0001b368
+ .init_array    0x100005a0        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+
+.fini_array     0x100005a4        0x4 load address 0x0001b36c
+ .fini_array    0x100005a4        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+
+.jcr            0x100005a8        0x4 load address 0x0001b370
+ .jcr           0x100005a8        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .jcr           0x100005a8        0x4 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x100005b0     0x4f34
+                0x100005b0                _bss = .
+ *(.bss*)
+ .bss           0x100005b0        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .bss           0x100005b0        0x1 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .bss           0x100005b1        0x0 CMakeFiles/main.dir/src/main.c.obj
+ .bss           0x100005b1        0x0 CMakeFiles/main.dir/src/ledblink.c.obj
+ .bss           0x100005b1        0x0 CMakeFiles/main.dir/src/usbecho.c.obj
+ .bss           0x100005b1        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+ .bss           0x100005b1        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+ .bss           0x100005b1        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ *fill*         0x100005b1        0x3 00
+ .bss.uxMissedTicks
+                0x100005b4        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xSuspendedTaskList
+                0x100005b8       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.pxDelayedTaskList
+                0x100005cc        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.pcStatusString.6522
+                0x100005d0       0x2c CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.uxTasksDeleted
+                0x100005fc        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xTasksWaitingTermination
+                0x10000600       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xDelayedTaskList2
+                0x10000614       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.uxTopReadyPriority
+                0x10000628        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.pxReadyTasksLists
+                0x1000062c       0x64 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.uxSchedulerSuspended
+                0x10000690        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xSchedulerRunning
+                0x10000694        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.pxCurrentTCB
+                0x10000698        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+                0x10000698                pxCurrentTCB
+ .bss.xPendingReadyList
+                0x1000069c       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xNumOfOverflows
+                0x100006b0        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xTickCount
+                0x100006b4        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.pxOverflowDelayedTaskList
+                0x100006b8        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.uxTaskNumber
+                0x100006bc        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xDelayedTaskList1
+                0x100006c0       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.xMissedYield
+                0x100006d4        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.uxCurrentNumberOfTasks
+                0x100006d8        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss.uxTopUsedPriority
+                0x100006dc        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .bss           0x100006e0        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .bss           0x100006e0        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj
+ .bss           0x100006e0        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.xDelayedCoRoutineList1
+                0x100006e0       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.xPassedTicks
+                0x100006f4        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.xPendingReadyCoRoutineList
+                0x100006f8       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.pxCurrentCoRoutine
+                0x1000070c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+                0x1000070c                pxCurrentCoRoutine
+ .bss.xDelayedCoRoutineList2
+                0x10000710       0x14 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.xCoRoutineTickCount
+                0x10000724        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.xLastTickCount
+                0x10000728        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.pxDelayedCoRoutineList
+                0x1000072c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.pxReadyCoRoutineLists
+                0x10000730       0x28 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.uxTopCoRoutineReadyPriority
+                0x10000758        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss.pxOverflowDelayedCoRoutineList
+                0x1000075c        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .bss           0x10000760        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+ .bss           0x10000760        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .bss.xHeap     0x10000760     0x4c00 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .bss.xStart    0x10005360        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .bss.xHeapHasBeenInitialised.5385
+                0x10005368        0x4 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .bss.xEnd      0x1000536c        0x8 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .bss           0x10005374        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .bss           0x10005374        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
+ .bss           0x10005374        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+ .bss           0x10005374        0x0 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+ .bss           0x10005374        0x0 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .bss.abBulkBuf
+                0x10005374       0x40 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .bss.xCharsForTx
+                0x100053b4        0x4 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .bss.xRxedChars
+                0x100053b8        0x4 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .bss.abClassReqData
+                0x100053bc        0x8 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .bss           0x100053c4        0x0 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss.apfnReqHandlers
+                0x100053c4       0x10 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss.apbDataStore
+                0x100053d4       0x10 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss.Setup     0x100053e4        0x8 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss.iResidue  0x100053ec        0x4 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss.pbData    0x100053f0        0x4 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss.iLen      0x100053f4        0x4 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .bss           0x100053f8        0x0 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .bss._pfnFrameHandler
+                0x100053f8        0x4 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .bss._pfnDevIntHandler
+                0x100053fc        0x4 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .bss._apfnEPIntHandlers
+                0x10005400       0x40 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .bss           0x10005440        0x0 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .bss.abStdReqData
+                0x10005440        0x8 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .bss           0x10005448        0x0 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .bss.pfnHandleCustomReq
+                0x10005448        0x4 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .bss.pabDescrip
+                0x1000544c        0x4 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .bss.bConfiguration
+                0x10005450        0x1 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_fpclassify.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_lib_ver.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_matherr.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_nan.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_dvmd_tls.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivsi3.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcmp.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcpy.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+ .bss           0x10005451        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+ *fill*         0x10005451        0x3 00
+ .bss           0x10005454        0xc /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+                0x10005454                __nlocale_changed
+                0x10005458                __mlocale_changed
+                0x1000545c                _PathLocale
+ .bss           0x10005460        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o)
+ .bss           0x10005460       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o)
+                0x10005460                __malloc_top_pad
+                0x10005464                __malloc_current_mallinfo
+                0x1000548c                __malloc_max_sbrked_mem
+                0x10005490                __malloc_max_total_mem
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memchr.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mlock.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-callocr.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-freer.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memmove.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-reallocr.o)
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .bss           0x10005494        0x0 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+ *(COMMON)
+ COMMON         0x10005494       0x50 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+                0x10005494                xQueueRegistry
+                0x100054e4                . = ALIGN (0x4)
+                0x100054e4                _ebss = .
+                0x100054e4                PROVIDE (end, .)
+                0x100054e4                PROVIDE (_pvHeapStart, .)
+                0x10007fe0                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(main elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x25
+ .ARM.attributes
+                0x00000000       0x19 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .ARM.attributes
+                0x00000019       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .ARM.attributes
+                0x00000042       0x31 CMakeFiles/main.dir/src/main.c.obj
+ .ARM.attributes
+                0x00000073       0x31 CMakeFiles/main.dir/src/ledblink.c.obj
+ .ARM.attributes
+                0x000000a4       0x31 CMakeFiles/main.dir/src/usbecho.c.obj
+ .ARM.attributes
+                0x000000d5       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+ .ARM.attributes
+                0x00000106       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+ .ARM.attributes
+                0x00000137       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .ARM.attributes
+                0x00000168       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .ARM.attributes
+                0x00000199       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj
+ .ARM.attributes
+                0x000001ca       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .ARM.attributes
+                0x000001fb       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+ .ARM.attributes
+                0x0000022c       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .ARM.attributes
+                0x0000025d       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .ARM.attributes
+                0x0000028e       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
+ .ARM.attributes
+                0x000002bf       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+ .ARM.attributes
+                0x000002f0       0x31 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+ .ARM.attributes
+                0x00000321       0x31 CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .ARM.attributes
+                0x00000352       0x31 CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .ARM.attributes
+                0x00000383       0x31 CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .ARM.attributes
+                0x000003b4       0x31 CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .ARM.attributes
+                0x000003e5       0x31 CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+ .ARM.attributes
+                0x00000416       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+ .ARM.attributes
+                0x0000043f       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o)
+ .ARM.attributes
+                0x00000468       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000491       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000004ba       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x000004e3       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000050c       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log.o)
+ .ARM.attributes
+                0x00000535       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000550       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000056b       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000586       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000005a1       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x000005bc       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x000005d7       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000005f2       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000060d       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x00000628       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000643       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x0000066c       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000687       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000006b0       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x000006d9       0x1b /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000006f4       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000071d       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000746       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x0000076f       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000798       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000007c1       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000007ea       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x00000813       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000083c       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000865       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x0000088e       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000008b7       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000008e0       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000909       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000932       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000095b       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000984       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000009ad       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000009d6       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000009ff       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000a28       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000a51       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000a7a       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000aa3       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000acc       0x29 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .ARM.attributes
+                0x00000af5       0x19 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a CMakeFiles/main.dir/src/main.c.obj
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/src/ledblink.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/src/usbecho.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/startup_lpc17xx.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/syscalls.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tasks.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/queue.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/list.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/MemMang/heap_2.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/port.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/core_cm3.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/DSP_Lib/src/Common/source/math_helper.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/usbstack/src/usb_cdc.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/usbstack/src/usbcontrol.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/usbstack/src/usbhw_lpc.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/usbstack/src/usbinit.c.obj
+ .comment       0x00000000       0x2b CMakeFiles/main.dir/usbstack/src/usbstdreq.c.obj
+
+.debug_frame    0x00000000      0x960
+ .debug_frame   0x00000000       0x34 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-w_log10.o)
+ .debug_frame   0x00000034       0x38 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log10.o)
+ .debug_frame   0x0000006c       0x28 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000094       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x000000b4       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-s_nan.o)
+ .debug_frame   0x000000d4       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a(lib_a-e_log.o)
+ .debug_frame   0x00000110       0x50 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(bpabi.o)
+ .debug_frame   0x00000160       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000019c       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivdi3.o)
+ .debug_frame   0x000001d8       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a(_udivsi3.o)
+ .debug_frame   0x000001f8       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-errno.o)
+ .debug_frame   0x00000218       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000244       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000274       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_frame   0x000002a0       0x64 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00000304       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcat.o)
+ .debug_frame   0x00000330       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000350       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x0000037c       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x000003b8       0x68 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000420       0x98 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-locale.o)
+ .debug_frame   0x000004b8       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-malloc.o)
+ .debug_frame   0x000004e8       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000524       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000550       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000580      0x244 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-mprec.o)
+ .debug_frame   0x000007c4       0x30 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x000007f4       0x20 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000814       0x68 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x0000087c       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-callocr.o)
+ .debug_frame   0x000008a8       0x50 /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-freer.o)
+ .debug_frame   0x000008f8       0x2c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000924       0x3c /opt/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-reallocr.o)

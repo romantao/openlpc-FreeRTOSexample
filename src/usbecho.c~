@@ -8,7 +8,7 @@
 #include "task.h"
 
 // System includes
-#include "usbapi.h"
+#include "usbcdc.h"
 #include "config.h"
 
 void vUSBecho( void *pvParameters )
@@ -24,7 +24,8 @@ void vUSBecho( void *pvParameters )
 		c = VCOM_getchar();
 		if (c != EOF) 
 		{
-			VCOM_putchar(c);
+			//VCOM_putchar(c);
+			VCOM_puts("The high volatility of the crude oil price and the climate changes are one of the major concerns of nowadays global society. The high dependency of the economy in oil resources and near future reserves depletion brought great investment on alternative and cleaner energy sources. The renewable energies are already getting an increasing share in the energy production market, supplying already more than $20\%$ of the demand of Denmark, a worldwide leader in wind energy production \cite{review12}. However, the evolution is not only being taken in the production sector but also on the consumer one. The automotive industry has growing interest on the electric vehicles (EV) because of the cheaper electricity prices and the reduction of green-house gas emissions that cars directly produce.\r\n");
 		}
 	}
 }
