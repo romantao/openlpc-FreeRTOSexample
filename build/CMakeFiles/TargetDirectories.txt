@@ -1,4 +1,0 @@
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/lpc21isp_program_main.hex.dir
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/main.dir
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/program_target.dir
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/build/CMakeFiles/usb_msc_program_main.bin.dir

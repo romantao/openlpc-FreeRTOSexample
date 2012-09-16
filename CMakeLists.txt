@@ -35,6 +35,8 @@ ADD_DEFINITIONS(-Wall -Wextra -O2 -ffunction-sections -fdata-sections)
 
 ADD_EXECUTABLE(main
 	./src/main.c
+	./src/ledblink.c
+	./src/usbecho.c
 	${FreeRTOS_DIR}/startup_lpc17xx.c
 	${FreeRTOS_DIR}/syscalls.c
 	${FreeRTOS_DIR}/tasks.c
@@ -54,7 +56,12 @@ ADD_EXECUTABLE(main
 	${LPCUSB_DIR}/src/usbstdreq.c
 )
 
-TARGET_LINK_LIBRARIES(main -lm ${DSPLIB_DIR}/lib/arm_cortexM3_math.lib)
+add_library(dsplib STATIC IMPORTED)
+
+set_property(TARGET dsplib PROPERTY IMPORTED_LOCATION
+${DSPLIB_DIR}/lib/arm_cortexM3_math.lib)
+
+TARGET_LINK_LIBRARIES(main -lm)
 
 GENERATE_HEX(main)
 

@@ -46,8 +46,8 @@
 */
 
 #include "FreeRTOS.h"
-#include "queue.h"
 #include "task.h"
+#include "queue.h"
 
 #include <stdio.h>
 #include <string.h>
@@ -58,10 +58,10 @@
 
 #include "LPC17xx.h"
 
-#define usbMAX_SEND_BLOCK		( 20 / portTICK_RATE_MS )
-#define usbBUFFER_LEN			( 20 )
+#define usbMAX_SEND_BLOCK	( 20 / portTICK_RATE_MS )
+#define usbBUFFER_LEN		( 20 )
 
-#define BAUD_RATE	115200
+#define BAUD_RATE		115200
 
 #define INT_IN_EP		0x81
 #define BULK_OUT_EP		0x05
@@ -73,11 +73,11 @@
 
 // CDC definitions
 #define CS_INTERFACE			0x24
-#define CS_ENDPOINT				0x25
+#define CS_ENDPOINT			0x25
 
 #define	SET_LINE_CODING			0x20
 #define	GET_LINE_CODING			0x21
-#define	SET_CONTROL_LINE_STATE	0x22
+#define	SET_CONTROL_LINE_STATE		0x22
 
 // data structure for GET_LINE_CODING / SET_LINE_CODING class requests
 typedef struct {
@@ -391,13 +391,15 @@ unsigned long CPUcpsie(void)
     return(ulRet);
 }
 
-void vUSBTask( void *pvParameters )
-{
-	int c;
+/**
+	USB Serial interface initialization
 	
-	/* Just to prevent compiler warnings about the unused parameter. */
-	( void ) pvParameters;
-	DBG("Initialising USB stack\n");
+
+	setup virtual serial interface
+ */
+//void USBinit( void *pvParameters )
+void USBinit( void )
+{
 
 	xRxedChars = xQueueCreate( usbBUFFER_LEN, sizeof( char ) );
 	xCharsForTx = xQueueCreate( usbBUFFER_LEN, sizeof( char ) );
@@ -430,24 +432,12 @@ void vUSBTask( void *pvParameters )
 	// enable bulk-in interrupts on NAKs
 	USBHwNakIntEnable(INACK_BI);
 
-	DBG("Starting USB communication\n");
-
 	NVIC_SetPriority( USB_IRQn, configUSB_INTERRUPT_PRIORITY );
 	NVIC_EnableIRQ( USB_IRQn );
 		
 	// connect to bus
 		
-	DBG("Connecting to USB bus\n");
 	USBHwConnect(TRUE);
 
-	// echo any character received (do USB stuff in interrupt)
-	for( ;; )
-	{
-		c = VCOM_getchar();
-		if (c != EOF) 
-		{
-			VCOM_putchar(c);
-		}
-	}
 }
 

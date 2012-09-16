@@ -75,7 +75,7 @@ void USBHwConfigDevice	(BOOL fConfigured);
 // endpoint operations
 void USBHwEPConfig		(unsigned char bEP, unsigned short wMaxPacketSize);
 int  USBHwEPRead		(unsigned char bEP, unsigned char *pbBuf, int iMaxLen);
-int  USBHwEPWrite		(unsigned char bEP, unsigned char *pbBuf, int iLen);
+int	 USBHwEPWrite		(unsigned char bEP, unsigned char *pbBuf, int iLen);
 void USBHwEPStall		(unsigned char bEP, BOOL fStall);
 unsigned char   USBHwEPGetStatus	(unsigned char bEP);
 
