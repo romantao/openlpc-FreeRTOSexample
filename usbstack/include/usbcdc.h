@@ -6,8 +6,8 @@
 // Functions for virtual serial interface
 
 int  VCOM_getchar( void );
-int  VCOM_putchar( char );
-int  VCOM_puts( char * string);
+int8_t  VCOM_putchar( char );
+int8_t  VCOM_puts( char * string);
 void USBinit( void );
 
 

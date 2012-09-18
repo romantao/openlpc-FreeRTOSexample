@@ -17,6 +17,22 @@ CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj: ../../openlpc-deps/CMSIS/include/system_lpc17xx.h
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.obj: /mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c
 
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/CMSIS/include/LPC17xx.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/CMSIS/include/core_cm3.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/CMSIS/include/core_cmFunc.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/CMSIS/include/core_cmInstr.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/CMSIS/include/system_lpc17xx.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/FreeRTOS.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/list.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/mpu_wrappers.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/portable.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/projdefs.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/task.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/portmacro.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: .././include/FreeRTOSConfig.h
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: /mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c
+CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj: /mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.h
+
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj: ../../openlpc-deps/CMSIS/include/LPC17xx.h
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj: ../../openlpc-deps/CMSIS/include/core_cm3.h
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj: ../../openlpc-deps/CMSIS/include/core_cmFunc.h
@@ -132,6 +148,40 @@ CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/tim
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj: .././include/FreeRTOSConfig.h
 CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.obj: /mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c
 
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/CMSIS/include/LPC17xx.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/CMSIS/include/core_cm3.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/CMSIS/include/core_cmFunc.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/CMSIS/include/core_cmInstr.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/CMSIS/include/system_lpc17xx.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/FreeRTOS.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/list.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/mpu_wrappers.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/portable.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/projdefs.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/task.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/portmacro.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: .././include/FreeRTOSConfig.h
+CMakeFiles/main.dir/src/CLI-commands.c.obj: ../src/CLI-commands.c
+
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/CMSIS/include/LPC17xx.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/CMSIS/include/core_cm3.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/CMSIS/include/core_cmFunc.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/CMSIS/include/core_cmInstr.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/CMSIS/include/system_lpc17xx.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/FreeRTOS.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/list.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/mpu_wrappers.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/portable.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/projdefs.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/queue.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/task.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/portable/ARM_CM3/portmacro.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: .././include/FreeRTOSConfig.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../usbstack/include/usbcdc.h
+CMakeFiles/main.dir/src/CommandServer.c.obj: ../src/CommandServer.c
+
 CMakeFiles/main.dir/src/ledblink.c.obj: ../../openlpc-deps/CMSIS/include/LPC17xx.h
 CMakeFiles/main.dir/src/ledblink.c.obj: ../../openlpc-deps/CMSIS/include/core_cm3.h
 CMakeFiles/main.dir/src/ledblink.c.obj: ../../openlpc-deps/CMSIS/include/core_cmFunc.h
@@ -154,6 +204,7 @@ CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/CMSIS/include/core_cm3.h
 CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/CMSIS/include/core_cmFunc.h
 CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/CMSIS/include/core_cmInstr.h
 CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/CMSIS/include/system_lpc17xx.h
+CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.h
 CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/FreeRTOS.h
 CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/list.h
 CMakeFiles/main.dir/src/main.c.obj: ../../openlpc-deps/basefiles_FreeRTOS/include/mpu_wrappers.h

@@ -219,6 +219,30 @@ mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.s
 .PHONY : mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.c.s
 
+mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.obj: mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.obj
+
+# target to build an object file
+mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.obj
+
+mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.i: mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.i
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.i
+
+# target to preprocess a source file
+mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.i
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.i
+
+mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.s: mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.s
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.s
+
+# target to generate assembly for a file
+mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.s
+.PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.c.s
+
 mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.obj: mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.c.obj
 .PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.obj
 
@@ -435,6 +459,54 @@ mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.s:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.s
 .PHONY : mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.c.s
 
+src/CLI-commands.obj: src/CLI-commands.c.obj
+.PHONY : src/CLI-commands.obj
+
+# target to build an object file
+src/CLI-commands.c.obj:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/CLI-commands.c.obj
+.PHONY : src/CLI-commands.c.obj
+
+src/CLI-commands.i: src/CLI-commands.c.i
+.PHONY : src/CLI-commands.i
+
+# target to preprocess a source file
+src/CLI-commands.c.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/CLI-commands.c.i
+.PHONY : src/CLI-commands.c.i
+
+src/CLI-commands.s: src/CLI-commands.c.s
+.PHONY : src/CLI-commands.s
+
+# target to generate assembly for a file
+src/CLI-commands.c.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/CLI-commands.c.s
+.PHONY : src/CLI-commands.c.s
+
+src/CommandServer.obj: src/CommandServer.c.obj
+.PHONY : src/CommandServer.obj
+
+# target to build an object file
+src/CommandServer.c.obj:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/CommandServer.c.obj
+.PHONY : src/CommandServer.c.obj
+
+src/CommandServer.i: src/CommandServer.c.i
+.PHONY : src/CommandServer.i
+
+# target to preprocess a source file
+src/CommandServer.c.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/CommandServer.c.i
+.PHONY : src/CommandServer.c.i
+
+src/CommandServer.s: src/CommandServer.c.s
+.PHONY : src/CommandServer.s
+
+# target to generate assembly for a file
+src/CommandServer.c.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/CommandServer.c.s
+.PHONY : src/CommandServer.c.s
+
 src/ledblink.obj: src/ledblink.c.obj
 .PHONY : src/ledblink.obj
 
@@ -648,6 +720,9 @@ help:
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.obj"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.i"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/CMSIS/src/system_lpc17xx.s"
+	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.obj"
+	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.i"
+	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.s"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.obj"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.i"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/croutine.s"
@@ -675,6 +750,12 @@ help:
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.obj"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.i"
 	@echo "... mnt/dados/Works/ARM/code/openlpc-deps/basefiles_FreeRTOS/timers.s"
+	@echo "... src/CLI-commands.obj"
+	@echo "... src/CLI-commands.i"
+	@echo "... src/CLI-commands.s"
+	@echo "... src/CommandServer.obj"
+	@echo "... src/CommandServer.i"
+	@echo "... src/CommandServer.s"
 	@echo "... src/ledblink.obj"
 	@echo "... src/ledblink.i"
 	@echo "... src/ledblink.s"

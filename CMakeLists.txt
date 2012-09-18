@@ -40,8 +40,8 @@ ADD_EXECUTABLE(main
 	./src/main.c
 	./src/ledblink.c
 	./src/usbecho.c
-	#./src/CLI-commands.c
-	#./src/CommandServer.c
+	./src/CLI-commands.c
+	./src/CommandServer.c
 	${FreeRTOS_DIR}/startup_lpc17xx.c
 	${FreeRTOS_DIR}/syscalls.c
 	${FreeRTOS_DIR}/tasks.c
@@ -51,7 +51,7 @@ ADD_EXECUTABLE(main
 	${FreeRTOS_DIR}/list.c
 	${FreeRTOS_DIR}/portable/MemMang/heap_2.c
 	${FreeRTOS_DIR}/portable/ARM_CM3/port.c
-	#${FreeRTOS_CLI_DIR}/FreeRTOS_CLI.c
+	${FreeRTOS_CLI_DIR}/FreeRTOS_CLI.c
 	${CMSIS_DIR}/src/core_cm3.c
 	${CMSIS_DIR}/src/system_lpc17xx.c
 	${DSPLIB_DIR}/src/Common/source/math_helper.c

@@ -32,6 +32,8 @@ intrinsics.h
 stdint.h
 -
 
+../../openlpc-deps/basefiles_FreeRTOS/FreeRTOS-Plus-CLI/FreeRTOS_CLI.h
+
 ../../openlpc-deps/basefiles_FreeRTOS/include/FreeRTOS.h
 stddef.h
 -
@@ -184,23 +186,29 @@ list.h
 LPC17xx.h
 .././include/LPC17xx.h
 
-.././include/config.h
-
 ../usbstack/include/usbcdc.h
 FreeRTOS.h
 ../usbstack/include/FreeRTOS.h
 queue.h
 ../usbstack/include/queue.h
 
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/usbecho.c
-stdio.h
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/stdio.h
+/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/CLI-commands.c
 FreeRTOS.h
 /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/FreeRTOS.h
 task.h
 /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/task.h
+FreeRTOS_CLI.h
+/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/FreeRTOS_CLI.h
+stdio.h
+-
+
+/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/CommandServer.c
+FreeRTOS.h
+/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/FreeRTOS.h
+task.h
+/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/task.h
+FreeRTOS_CLI.h
+/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/FreeRTOS_CLI.h
 usbcdc.h
 /mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/usbcdc.h
-config.h
-/mnt/dados/Works/ARM/code/openlpc-FreeRTOSexample/src/config.h
 

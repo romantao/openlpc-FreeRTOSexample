@@ -5,6 +5,10 @@
 /* FreeRTOS+CLI includes. */
 #include "FreeRTOS_CLI.h"
 
+/* Standard includes */
+#include <string.h>
+#include <stdio.h>
+
 
 // Defines a command that expects exactly three parameters.  Each of the three
 // parameter are echoed back one at a time.

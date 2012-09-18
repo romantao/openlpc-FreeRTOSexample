@@ -315,7 +315,7 @@ DBG("SET_CONTROL_LINE_STATE %X\n", pSetup->wValue);
 	@param [in] c character to write
 	@returns character written, or EOF if character could not be written
  */
-int VCOM_putchar(char c)
+int8_t VCOM_putchar(char c)
 {
 char cc = ( char ) c;
 
@@ -337,9 +337,9 @@ char cc = ( char ) c;
 	@returns 0, or EOF if character could not be written
 
  */
-int VCOM_puts(char * string)
+int8_t VCOM_puts(char * string)
 {
-	char i = 0; 		//string index
+	int i = 0; 		//string index
 	
 	while (string[i] != '\0') 
 	{

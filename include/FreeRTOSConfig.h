@@ -68,4 +68,10 @@ value needs to be equal to or greater than 5 (on the Cortex-M3 the lower the
 numeric value the higher the interrupt priority). */
 #define configUSB_INTERRUPT_PRIORITY		6
 
+/* Dimensions a buffer that can be used by the FreeRTOS+CLI command
+interpreter.  Set this value to 1 to save RAM if FreeRTOS+CLI does not supply
+the output buffer.  See the FreeRTOS+CLI documentation for more information:
+http://www.FreeRTOS.org/FreeRTOS-Plus/FreeRTOS_Plus_CLI/ */
+#define configCOMMAND_INT_MAX_OUTPUT_SIZE			1024
+
 #endif /* FREERTOS_CONFIG_H */

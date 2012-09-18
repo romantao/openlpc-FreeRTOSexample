@@ -1,5 +1,7 @@
 // Standard includes.
-#include "stdio.h"
+#include <stdio.h>
+#include <stdint.h>
+
 
 // System includes
 #include <math.h>
@@ -9,6 +11,7 @@
 #include "FreeRTOS.h"
 #include "task.h"
 #include "config.h"
+#include "FreeRTOS_CLI.h"
 
 // Application includes. 
 #include "usbcdc.h"
@@ -26,15 +29,14 @@ extern void vLedBlink( void *pvParameters);
 // Task that echoes a received char via serial interface .
 extern void vUSBecho( void *pvParameters );
 
-
-// The task that implements the UDP command interpreter using FreeRTOS+CLI.
-//extern void vCommandInterpreterTask( void *pvParameters );
+// The task that implements the VUSB command interpreter using FreeRTOS+CLI.
+extern void vCommandConsoleTask( void *pvParameters );
 
 // Function Prototypes
 
 // Register commands to be be used with FreeRTOS+CLI through serial interface.
 // The commands are defined in CLI-commands.c.
-//extern void vRegisterCLICommands( void );
+extern void vRegisterCLICommands( void );
 
 
 
@@ -52,10 +54,10 @@ int main( void )
 	xTaskCreate( vUSBecho, ( signed char * ) "USB", configMINIMAL_STACK_SIZE, ( void * ) NULL, usbecho_PRIORITY, NULL );
     
     // Create the task that handles the CLI on a Virtual Serial port.
-	//xTaskCreate( vCommandInterpreterTask, ( signed char * ) "CLI", configMINIMAL_STACK_SIZE, NULL, CLI_PRIORITY, NULL );
+	xTaskCreate( vCommandConsoleTask, ( signed char * ) "CLI", configMINIMAL_STACK_SIZE, NULL, CLI_PRIORITY, NULL );
 
     //Register commands with the FreeRTOS+CLI command interpreter.
-	//vRegisterCLICommands();
+	vRegisterCLICommands();
 
     // Start the scheduler.
 	vTaskStartScheduler();

@@ -5,14 +5,14 @@
 /* FreeRTOS+CLI includes. */
 #include "FreeRTOS_CLI.h"
 
+/* System includes */
+#include "usbcdc.h"
+
 /* Dimensions the buffer into which input characters are placed. */
 #define cmdMAX_INPUT_SIZE	60
 
 /* Dimensions the buffer into which string outputs can be placed. */
 #define cmdMAX_OUTPUT_SIZE	1024
-
-/* Dimensions the buffer passed to the recvfrom() call. */
-#define cmdSOCKET_INPUT_BUFFER_SIZE 60
 
 
 /*-----------------------------------------------------------*/
@@ -23,7 +23,7 @@
  * within main.c for the location of the online documentation.
  */
 
-static void prvUARTCommandConsoleTask( void *pvParameters )
+void vCommandConsoleTask( void *pvParameters )
 {
 int8_t cRxedChar, cInputIndex = 0, *pcOutputString;
 static int8_t cInputString[ cmdMAX_INPUT_SIZE ];
@@ -41,39 +41,40 @@ portBASE_TYPE xReturned;
 	(ulFlags) is not used in this case.  The default board rate is set by the
 	boardDEFAULT_UART_BAUD parameter.  The baud rate can be changed using a
 	FreeRTOS_ioctl() call with the ioctlSET_SPEED command. */
-	xConsoleUART = FreeRTOS_open( boardCOMMAND_CONSOLE_UART, ( uint32_t ) cmdPARAMTER_NOT_USED );
-	configASSERT( xConsoleUART );
+
+//	xConsoleUART = FreeRTOS_open( boardCOMMAND_CONSOLE_UART, ( uint32_t ) cmdPARAMTER_NOT_USED );
+//	configASSERT( xConsoleUART );
 
 	/* Change the Tx usage model from straight polled mode to use zero copy
 	buffers with interrupts.  In this mode, the UART will transmit characters
 	directly from the buffer passed to the FreeRTOS_write()	function. */
-	xReturned = FreeRTOS_ioctl( xConsoleUART, ioctlUSE_ZERO_COPY_TX, cmdPARAMTER_NOT_USED );
-	configASSERT( xReturned );
+//	xReturned = FreeRTOS_ioctl( xConsoleUART, ioctlUSE_ZERO_COPY_TX, cmdPARAMTER_NOT_USED );
+	configASSERT( xReturned );//
 
 	/* Change the Rx usage model from straight polled mode to use a character
 	queue.  Character queue reception is appropriate in this case as characters
 	can only be received as quickly as they can be typed, and need to be parsed
 	character by character. */
-	xReturned = FreeRTOS_ioctl( xConsoleUART, ioctlUSE_CHARACTER_QUEUE_RX, ( void * ) cmdMAX_INPUT_SIZE );
-	configASSERT( xReturned );
+//	xReturned = FreeRTOS_ioctl( xConsoleUART, ioctlUSE_CHARACTER_QUEUE_RX, ( void * ) cmdMAX_INPUT_SIZE );
+//	configASSERT( xReturned );
 
 	/* By default, the UART interrupt priority will have been set to the lowest
 	possible.  It must be kept at or below configMAX_LIBRARY_INTERRUPT_PRIORITY,
 	but	can be raised above its default priority using a FreeRTOS_ioctl() call
 	with the ioctlSET_INTERRUPT_PRIORITY command. */
-	xReturned = FreeRTOS_ioctl( xConsoleUART, ioctlSET_INTERRUPT_PRIORITY, ( void * ) ( configMIN_LIBRARY_INTERRUPT_PRIORITY - 1 ) );
-	configASSERT( xReturned );
+//	xReturned = FreeRTOS_ioctl( xConsoleUART, ioctlSET_INTERRUPT_PRIORITY, ( void * ) ( configMIN_LIBRARY_INTERRUPT_PRIORITY - 1 ) );
+//	configASSERT( xReturned );
 
 	/* Send the welcome message. */
-	if( FreeRTOS_ioctl( xConsoleUART, ioctlOBTAIN_WRITE_MUTEX, cmd50ms ) == pdPASS )
+/*	if( FreeRTOS_ioctl( xConsoleUART, ioctlOBTAIN_WRITE_MUTEX, cmd50ms ) == pdPASS )
 	{
 		FreeRTOS_write( xConsoleUART, pcWelcomeMessage, strlen( ( char * ) pcWelcomeMessage ) );
 	}
-
+*/
 	for( ;; )
 	{
 		/* Only interested in reading one character at a time. */
-		cRxedChar = VCOM_getchar(void)
+		cRxedChar = VCOM_getchar();
 
 		if( cRxedChar == '\n' )
 		{
@@ -89,7 +90,7 @@ portBASE_TYPE xReturned;
 				FreeRTOS_write( xConsoleUART, pcNewLine, strlen( ( char * ) pcNewLine ) );
 			}
 			*/
-			VCOM_PUTS("\r\n>");
+			VCOM_puts("\r\n>");
 			/* Pass the received command to the command interpreter.  The
 			command interpreter is called repeatedly until it returns
 			pdFALSE as it might generate more than one string. */
@@ -120,11 +121,12 @@ portBASE_TYPE xReturned;
 			memset( cInputString, 0x00, cmdMAX_INPUT_SIZE );
 
 			/* Ensure the last string to be transmitted has completed. */
-			if( FreeRTOS_ioctl( xConsoleUART, ioctlOBTAIN_WRITE_MUTEX, cmd50ms ) == pdPASS )
+			//if( FreeRTOS_ioctl( xConsoleUART, ioctlOBTAIN_WRITE_MUTEX, cmd50ms ) == pdPASS )
 			{
 				/* Start to transmit a line separator, just to make the output
 				easier to read. */
-				FreeRTOS_write( xConsoleUART, "\r\n>", strlen( "\r\n>" ) );
+				//FreeRTOS_write( xConsoleUART, "\r\n>", strlen( "\r\n>" ) );
+				VCOM_puts("\r\n>");
 			}
 		}
 		else
